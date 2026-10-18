@@ -1,0 +1,5 @@
+customer_segment,customer_count,avg_orders,avg_reorder_rate,avg_products_purchased,customer_percentage
+Developing Customers,64054,9.25,39.1,76.4,31.06
+Loyal Customers,45554,40.4,68.6,411.57,22.09
+Occasional / Low-Reorder Customers,52509,5.49,17.02,41.21,25.46
+Regular Customers,44092,15.88,54.2,150.32,21.38

@@ -1,0 +1,5 @@
+Feature,Importance
+orders_since_last_purchase,0.7388182231911519
+reorder_rate,0.18157947578751032
+purchase_count,0.05198730036188451
+total_prior_orders,0.02761500065945325
